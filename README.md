@@ -1,6 +1,6 @@
 # Deck of Cards
 
-This is the Deck of Cards exercise from The Mother Python 3 Bootcamp Udemy course with instructor Colt Steele.
+This is the *Deck of Cards* exercise from **The Modern Python 3 Bootcamp** Udemy course with instructor Colt Steele.
 
 The exercise focuses on applyng OOP concepts.
 
